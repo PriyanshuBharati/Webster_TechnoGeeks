@@ -1,4 +1,4 @@
-.navbar{
+ .navbar{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -79,7 +79,7 @@
     border-radius: 50px;
     display: flex;
     align-items: center;
-    /*padding: 0 5px;*/
+    padding: 0 5px;
 }
 
 .search-box img{
@@ -296,7 +296,7 @@
     color: #045be6;
     font-weight: 500;
     margin: 20px auto 10px;
-}
+} 
 
 .sidebar-useful-links{
     padding: 15px 25px;
@@ -309,7 +309,7 @@
     margin: 4px 2px;
 }
 
-.main-content{
+ .main-content{
     flex-basis:47%;
 }
 
@@ -448,4 +448,4 @@
 
 .liked-users{
     margin-left: 10px;
-}
+} 
